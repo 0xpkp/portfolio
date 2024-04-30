@@ -1,5 +1,5 @@
 title : Praveen R
-logo : /assets/img/circle_photo.png
+logo : <img src="/assets/img/circle_photo.png" alt="drawing" width="200" height="200"/>
 description : data science and AI enthusiast
 show_downloads : False
 theme : jekyll-theme-minimal
