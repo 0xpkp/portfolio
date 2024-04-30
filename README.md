@@ -3,12 +3,12 @@
 
 ### Education
 
-    B.Sc in Computer Science from TNOU university, Tamil Nadu, India
-    from July 2020 - June 2023 
+B.Sc in Computer Science from TNOU university, Tamil Nadu, India
+from July 2020 - June 2023 
 
 
-    Advanced Data Science and AI from IIT-Roorkee and Intellipaat
-    from August 2023 - May 2024
+Advanced Data Science and AI from IIT-Roorkee and Intellipaat
+from August 2023 - May 2024
 
 
 ### Skills
