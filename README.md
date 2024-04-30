@@ -13,8 +13,8 @@ from August 2023 - May 2024
 
 ### Skills
 
--Machine learning : Python with pandas, numpy and scikit-learn
--Deep learning : using TensorFlow and Keras
+- Machine learning : Python with pandas, numpy and scikit-learn
+- Deep learning : using TensorFlow and Keras
 -Visualization tools : using Matplotlib and Seaborn
 -Data base : MySQL and MsSQL
 -Business Intelligence Tools : Microsoft’s Power BI
