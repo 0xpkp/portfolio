@@ -15,12 +15,12 @@ from August 2023 - May 2024
 
 - Machine learning : Python with pandas, numpy and scikit-learn
 - Deep learning : using TensorFlow and Keras
--Visualization tools : using Matplotlib and Seaborn
--Data base : MySQL and MsSQL
--Business Intelligence Tools : Microsoft’s Power BI
--Programming technologies : C, C++, Python, HTML, Javascript, PHP
--Web scraping : Scrapy and Selenium
--Others : Git and Github
+- Visualization tools : using Matplotlib and Seaborn
+- Data base : MySQL and MsSQL
+- Business Intelligence Tools : Microsoft’s Power BI
+- Programming technologies : C, C++, Python, HTML, Javascript, PHP
+- Web scraping : Scrapy and Selenium
+- Others : Git and Github
 
 
 ### Experience
